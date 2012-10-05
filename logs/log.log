@@ -1,0 +1,32 @@
+str1
+str1
+vah-vah
+vah-vah
+str1
+str1
+vah-vah
+vah-vah
+str1
+str1
+vah-vah
+vah-vah
+str1
+str1
+vah-vah
+vah-vah
+str1
+str1
+vah-vah
+vah-vah
+2012-07-23 14:05:44,665 [DEBUG] console: str1
+2012-07-23 14:05:44,665 [INFO] console: vah-vah
+2012-07-23 14:06:08,270 [DEBUG] console: str1
+2012-07-23 14:06:08,272 [INFO] console: vah-vah
+2012-07-23 14:06:23,151 [DEBUG] main: str1
+2012-07-23 14:06:23,151 [INFO] main: vah-vah
+2012-07-23 14:06:39,756 [DEBUG] main: str1
+2012-07-23 14:06:39,756 [INFO] main: vah-vah
+2012-07-23 14:08:03,160 [DEBUG] main: str1
+2012-07-23 14:08:03,160 [INFO] main: vah-vah
+2012-07-23 14:53:53,513 [DEBUG] console: str1
+2012-07-23 14:53:53,538 [INFO] console: vah-vah
